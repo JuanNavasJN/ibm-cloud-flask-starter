@@ -1,0 +1,5 @@
+---
+applications:
+  - name: ibm-cloud-flask-starter
+    # random-route: true
+    memory: 128M
